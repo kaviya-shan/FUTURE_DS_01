@@ -1,13 +1,14 @@
 # FUTURE_DS_01
-📊 E-Commerce Business Sales Dashboard
+
+📊 E-Commerce Business Sales Dashboard.
 This Power BI dashboard project provides a comprehensive analysis of e-commerce business sales, giving insights into sales performance across categories, brands, and user interaction types. The interactive dashboard helps stakeholders understand where the business is thriving and where there are opportunities for growth.
 
-🛠 Tools Used
+🛠 Tools Used.
 -Power BI   
 -DAX for calculated measures and KPIs
 -Basic data cleaning and transformation using Power Query.
 
-📁 Dataset Overview
+📁 Dataset Overview.
 -Source: Provided as part of the Power BI .pbix file
 -Key Fields:
 -Category: Product classification (e.g., Appliances, Electronics, Furniture)
@@ -16,7 +17,7 @@ This Power BI dashboard project provides a comprehensive analysis of e-commerce 
 -Average_price: Calculated price per category or brand
 -Event_type: User activity like "View", "Cart", or "Purchase"
 
-⌛ Process Involves
+⌛ Process Involves.
 ✅ 1. Data Collection
 Imported the e-commerce dataset into Power BI from internal tables or external sources.
 ✅ 2. Data Cleaning & Transformation
@@ -32,9 +33,9 @@ Added slicers and filters for category and event types to enable dynamic data ex
 ✅ 7. Dashboard Optimization
 Optimized performance by aggregating data and minimizing complex visuals.
 ✅ 8. Documentation & Export
-Documented the project and exported the final .pbix file for sharing and GitHub upload
+Documented the project and exported the final .pbix file for sharing and GitHub upload.
 
-🎯 Objectives
+🎯 Objectives.
 *To analyze total sales performance across product categories and brands.
 *To examine the average pricing trends across different product segments.
 *To evaluate user interaction types (View, Cart, Purchase) and their sales contributions.
@@ -49,14 +50,14 @@ Documented the project and exported the final .pbix file for sharing and GitHub 
 5.How do user interactions (View, Cart, Purchase) affect overall sales performance?
 6.What insights can we derive about consumer interest versus actual purchases?
 
-📌 Key Insights Summary
+📌 Key Insights Summary.
 -Total Sales: 6,219.19M
 -Average Price: 235.41
 -Top Category: Appliances with 2,786.4M in sales
 -Top Brand: Samsung leads in both sales and price contributions.
 -Event Insights: A majority of the user interactions are Views (5961M), while actual Purchases make up only 70M, indicating a conversion gap.
 
-📊Dashboard 
+📊Dashboard.
 <img width="1324" height="744" alt="Screenshot 2025-07-13 190949" src="https://github.com/user-attachments/assets/7e86e0e3-2b3f-4635-a7c3-bb9f8daadff1" />
 
 https://github.com/kaviya-shan/FUTURE_DS_01/blob/main/Business%20sales%20dashboard.pbix
