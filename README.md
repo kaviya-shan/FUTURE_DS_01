@@ -59,6 +59,9 @@ Documented the project and exported the final .pbix file for sharing and GitHub 
 📊Dashboard 
 <img width="1324" height="744" alt="Screenshot 2025-07-13 190949" src="https://github.com/user-attachments/assets/7e86e0e3-2b3f-4635-a7c3-bb9f8daadff1" />
 
+https://github.com/kaviya-shan/FUTURE_DS_01/blob/main/Business%20sales%20dashboard.pbix
+
+
 
 
 
