@@ -21,18 +21,25 @@ This Power BI dashboard project provides a comprehensive analysis of e-commerce 
 
 ✅ 1. Data Collection
 Imported the e-commerce dataset into Power BI from internal tables or external sources.
+
 ✅ 2. Data Cleaning & Transformation
 Cleaned the data using Power Query by removing nulls,Adding Missing Values, formatting columns, and preparing it for analysis.
+
 ✅ 3. Data Modeling
 Established relationships between tables and created a logical data model for analysis.
+
 ✅ 4. DAX Measures
 Created key measures like Total Sales and Average Price using DAX formulas.
+
 ✅ 5. Data Visualization
 Built charts, cards,Filters and slicers to visually represent key insights and KPIs.
+
 ✅ 6. Interactivity & Filters
 Added slicers and filters for category and event types to enable dynamic data exploration.
+
 ✅ 7. Dashboard Optimization
 Optimized performance by aggregating data and minimizing complex visuals.
+
 ✅ 8. Documentation & Export
 Documented the project and exported the final .pbix file for sharing and GitHub upload.
 
