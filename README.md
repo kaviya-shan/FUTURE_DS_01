@@ -18,6 +18,7 @@ This Power BI dashboard project provides a comprehensive analysis of e-commerce 
 -Event_type: User activity like "View", "Cart", or "Purchase"
 
 ⌛ Process Involves.
+
 ✅ 1. Data Collection
 Imported the e-commerce dataset into Power BI from internal tables or external sources.
 ✅ 2. Data Cleaning & Transformation
