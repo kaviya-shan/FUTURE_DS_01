@@ -15,6 +15,7 @@ This Power BI dashboard project provides a comprehensive analysis of e-commerce 
 
 📁 Dataset Overview.
 
+
 -Source: Provided as part of the Power BI .pbix file.
 
 -Key Fields:
@@ -31,6 +32,7 @@ This Power BI dashboard project provides a comprehensive analysis of e-commerce 
 
 
 ⌛ Process Involves.
+
 
 ✅ 1. Data Collection
 Imported the e-commerce dataset into Power BI from internal tables or external sources.
@@ -59,6 +61,7 @@ Documented the project and exported the final .pbix file for sharing and GitHub 
 
 🎯 Objectives.
 
+
 *To analyze total sales performance across product categories and brands.
 
 *To examine the average pricing trends across different product segments.
@@ -71,6 +74,7 @@ Documented the project and exported the final .pbix file for sharing and GitHub 
 
 
 ❓ Key Business Questions....
+
 
 1.What is the total sales volume and average price of products sold?
 
@@ -87,6 +91,7 @@ Documented the project and exported the final .pbix file for sharing and GitHub 
 
 📌 Key Insights Summary.
 
+
 -Total Sales: 6,219.19M
 
 -Average Price: 235.41
@@ -99,6 +104,7 @@ Documented the project and exported the final .pbix file for sharing and GitHub 
 
 
 📊Dashboard.
+
 
 <img width="1324" height="744" alt="Screenshot 2025-07-13 190949" src="https://github.com/user-attachments/assets/7e86e0e3-2b3f-4635-a7c3-bb9f8daadff1" />
 
