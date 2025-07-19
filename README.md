@@ -1,6 +1,7 @@
 # FUTURE_DS_01
 
 📊 E-Commerce Business Sales Dashboard.
+
 This Power BI dashboard project provides a comprehensive analysis of e-commerce business sales, giving insights into sales performance across categories, brands, and user interaction types.The interactive dashboard helps stakeholders understand where the business is thriving and where there are opportunities for growth.
 
 🛠 Tools Used.
