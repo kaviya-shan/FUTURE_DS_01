@@ -12,6 +12,7 @@ This Power BI dashboard project provides a comprehensive analysis of e-commerce 
 
 -Basic data cleaning and transformation using Power Query.
 
+
 📁 Dataset Overview.
 
 -Source: Provided as part of the Power BI .pbix file.
@@ -27,6 +28,7 @@ This Power BI dashboard project provides a comprehensive analysis of e-commerce 
 -Average_price: Calculated price per category or brand
 
 -Event_type: User activity like "View", "Cart", or "Purchase"
+
 
 ⌛ Process Involves.
 
@@ -54,6 +56,7 @@ Optimized performance by aggregating data and minimizing complex visuals.
 ✅ 8. Documentation & Export
 Documented the project and exported the final .pbix file for sharing and GitHub upload.
 
+
 🎯 Objectives.
 
 *To analyze total sales performance across product categories and brands.
@@ -65,6 +68,7 @@ Documented the project and exported the final .pbix file for sharing and GitHub 
 *To identify top-performing brands and categories in terms of revenue.
 
 *To provide a dynamic, interactive dashboard for real-time decision-making.
+
 
 ❓ Key Business Questions....
 
@@ -80,6 +84,7 @@ Documented the project and exported the final .pbix file for sharing and GitHub 
 
 6.What insights can we derive about consumer interest versus actual purchases?
 
+
 📌 Key Insights Summary.
 
 -Total Sales: 6,219.19M
@@ -91,6 +96,7 @@ Documented the project and exported the final .pbix file for sharing and GitHub 
 -Top Brand: Samsung leads in both sales and price contributions.
 
 -Event Insights: A majority of the user interactions are Views (5961M), while actual Purchases make up only 70M, indicating a conversion gap.
+
 
 📊Dashboard.
 
