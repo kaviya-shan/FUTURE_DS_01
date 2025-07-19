@@ -5,7 +5,9 @@ This Power BI dashboard project provides a comprehensive analysis of e-commerce 
 
 🛠 Tools Used.
 -Power BI   
+
 -DAX for calculated measures and KPIs
+
 -Basic data cleaning and transformation using Power Query.
 
 📁 Dataset Overview.
